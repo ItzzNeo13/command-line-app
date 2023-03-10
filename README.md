@@ -8,6 +8,14 @@ And it was fun to develop this. Since JavaScript is new to me, this was a great 
 #### Try the quiz:
 `npx neoquiz` in Terminal Window.
 
+#
+<details>
+<summary>Preview</summary>
+
+![image](https://user-images.githubusercontent.com/88544216/224305497-9f9b3a1a-e5c6-4f9e-bd88-9dd0dc7d6fe2.png)
+
+</details>
+
 __CLI Tools used: (Packages)__
 
 - Chalk & Chalk Animation
